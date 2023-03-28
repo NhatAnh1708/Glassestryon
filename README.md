@@ -1,5 +1,8 @@
 # Glassestryon
 
+![eyeglasse-pipeline](https://user-images.githubusercontent.com/114160317/228308330-d615f02a-0ff2-405c-a7f7-813f9c611962.png)
+
+
 Đây là một dự án về việc thử kính trên môi trường ảo. Tuy nhiên ở version1.0, mới chỉ có đầu ra là 2D.
 
 Để test : 
@@ -32,5 +35,4 @@ Sản phẩm của tôi được lấy ý tưởng từ https://github.com/chenh
   booktitle={IEEE Conference on Computer Vision and Pattern Recognition ({CVPR})},
   year={2018}
 }
-
 
